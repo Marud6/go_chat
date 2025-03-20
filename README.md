@@ -10,4 +10,5 @@ WebSocket Chat – A real-time chat using WebSockets for better performance.<br/
 🚀 Lightweight – Built with Go for speed and simplicity.<br/>
 🔧 Easy to Run – Minimal setup required.<br/>
 
-
+# 🖼️ Screenshots
+<img width="1276" alt="Snímek obrazovky 2025-03-20 085805" src="https://github.com/user-attachments/assets/cd19971e-9184-48e4-b79a-e3e860fd2966" />
